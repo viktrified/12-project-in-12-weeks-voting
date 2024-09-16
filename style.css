@@ -18,10 +18,6 @@ div {
     margin-top: 80px;
 }
 
-/* span {
-    padding: 0px;
-} */
-
 #yes {
     margin-right: 70px;
     color: #14e029;
@@ -46,4 +42,8 @@ input {
         transform: scale(2);
         margin: 5px;
         vertical-align: 8px;
+}
+
+label { 
+    padding-right: 10px;
 }
